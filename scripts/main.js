@@ -1,0 +1,1 @@
+console.log("This is an awesome class. I love the name everyone chose :)");
